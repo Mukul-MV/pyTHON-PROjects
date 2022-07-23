@@ -72,4 +72,4 @@ def showBoard(category,obscuredPhrase,guessed): #pehle ye ki ye fxn kam ka h ki 
            Guessed : {}
            """.format(category,obscuredPhrase,''.join(sorted(guessed)))
 
-
+'''changes'''
